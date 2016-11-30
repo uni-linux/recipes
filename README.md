@@ -1,4 +1,4 @@
-# Recipes for UNI
+# Recipes for UNI :cake:
 
 This is the main recipes repository for UNI.<br/>
 You can create your own or use one of the available recipes in here.
