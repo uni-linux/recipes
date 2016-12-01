@@ -8,7 +8,7 @@
 
 <br/>
 Welcome to my recipes page. Take everything you need.<br/>
-Any problem, please report me in one of the channels in the badges above.
+Any problem, please report me in one of the channels on the badges above.
 
 <br/>
 
