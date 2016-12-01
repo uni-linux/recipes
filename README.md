@@ -1,7 +1,7 @@
 <p align="center">
   <br/><br/>
   <img src="bin/cake.png" alt="Recipes for UNI logo"/>
-  <br/><br/>
+  <br/><br/><br/>
 </p>
 
 <h1 align="center">Recipes for UNI :cake:</h1>
@@ -10,12 +10,14 @@
   <a href="https://github.com/uni-linux/uni"><img src="https://img.shields.io/badge/get-uni-green.svg" alt="get uni"/></a>
   <a href="https://github.com/uni-linux/recipes/blob/master/LICENSE"><img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="License - MIT"/></a>
 </p>
+<br/>
 
 > This is the main recipes repository for [UNI](https://github.com/uni-linux/uni).<br/>
 > You can create your own or use one of the available recipes in here.
 
 > Recipes are bash scripts to do anything. Be it to install programs and resolve dependencies or fix system problems. Anything you want and can do with bash scripts.
 
+<br/>
 # Available Recipes
 - [atom-install](https://github.com/uni-linux/recipes/tree/master/src/daltonmenezes/atom-install)<br/>
   Installs the latest version of Atom Editor from their official website and resolve dependency issues.
