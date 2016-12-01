@@ -20,7 +20,7 @@
 <br/>
 
 # Available Recipes
-- [atom-install](https://github.com/uni-linux/recipes/tree/master/src/daltonmenezes/atom-install)<br/>
+- [atom-install](https://github.com/uni-linux/recipes/tree/master/src/daltonmenezes/atom-install) by [Dalton Menezes](https://github.com/uni-linux/recipes/tree/master/src/daltonmenezes)<br/>
   Installs the latest version of Atom Editor from their official website and resolve dependency issues.
 
 <br/>
