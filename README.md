@@ -1,10 +1,12 @@
 <p align="center">
-<img src="https://cdn.pixabay.com/photo/2016/10/10/02/14/cake-1727516__340.png" alt="Recipes for UNI logo"/>
-<h1 align="center">Recipes for UNI :cake:</h1>
+  <img src="bin/cake.png" alt="Recipes for UNI logo"/>
 </p>
+
+<h1 align="center">Recipes for UNI :cake:</h1>
+
 <p align="center">
-<a href="https://github.com/uni-linux/uni"><img src="https://img.shields.io/badge/get-uni-green.svg" alt="get uni"/></a>
-<a href="https://github.com/uni-linux/recipes/blob/master/LICENSE"><img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="License - MIT"/></a>
+  <a href="https://github.com/uni-linux/uni"><img src="https://img.shields.io/badge/get-uni-green.svg" alt="get uni"/></a>
+  <a href="https://github.com/uni-linux/recipes/blob/master/LICENSE"><img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="License - MIT"/></a>
 </p>
 
 > This is the main recipes repository for [UNI](https://github.com/uni-linux/uni).<br/>
@@ -15,7 +17,7 @@
 # Available Recipes
 - [atom-install](https://github.com/uni-linux/recipes/tree/master/src/daltonmenezes/atom-install)<br/>
   Installs the latest version of Atom Editor from their official website and resolve dependency issues.
-  
+
 # Contributing
 
 As I said, recipes are bash script files. You can do anything you want.
