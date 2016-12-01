@@ -17,7 +17,7 @@
 
 > Recipes are bash scripts to do anything. Be it to install programs and resolve dependencies or fix system problems. Anything you want and can do with bash scripts.
 
-<br/>
+
 # Available Recipes
 - [atom-install](https://github.com/uni-linux/recipes/tree/master/src/daltonmenezes/atom-install)<br/>
   Installs the latest version of Atom Editor from their official website and resolve dependency issues.
