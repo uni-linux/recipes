@@ -1,5 +1,7 @@
 <p align="center">
+  <br/><br/>
   <img src="bin/cake.png" alt="Recipes for UNI logo"/>
+  <br/><br/>
 </p>
 
 <h1 align="center">Recipes for UNI :cake:</h1>
