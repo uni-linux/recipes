@@ -15,7 +15,7 @@ function install {
   sudo mv /opt/Telegram*/ /opt/telegram
   sudo ln -sf /opt/telegram/Updater /usr/bin/telegram
   rm -f telegram.tar.xz
-  /opt/telegram/Telegram
+  /opt/telegram/Telegram &
 }
 
 if [[ ! -z $has_telegram ]]; then
