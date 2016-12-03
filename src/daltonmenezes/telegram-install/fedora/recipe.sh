@@ -15,9 +15,7 @@ function install {
   sudo mv /opt/Telegram*/ /opt/telegram
   sudo ln -sf /opt/telegram/Updater /usr/bin/telegram
   rm -f telegram.tar.xz
-  touch telegram.desktop
-  printf "[Desktop Entry]\nVersion=1.0\nExec=/opt/telegram/Telegram\nIcon=Telegram\nType=Application\nCategories=Application;Network;" > telegram.desktop
-  sudo mv -fu telegram.desktop /usr/share/applications/
+  /opt/telegram/Telegram
 }
 
 if [[ ! -z $has_telegram ]]; then
