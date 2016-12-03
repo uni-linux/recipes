@@ -15,3 +15,6 @@ Any problem, please report me in one of the channels on the badges above.
 # My Recipes
 - [atom-install](https://github.com/uni-linux/recipes/tree/master/src/daltonmenezes/atom-install)<br/>
   Installs the latest version of Atom Editor from their official website and resolve dependency issues.
+
+- [telegram-install](https://github.com/uni-linux/recipes/tree/master/src/daltonmenezes/telegram-install)<br/>
+  Installs the latest version of Telegram from their official website.
