@@ -10,8 +10,6 @@ For your recipe, just clone this repository and take this template as basis. Cre
 
 # Usage
 
-> This section is ignored on terminal, so, you can keep this markdown table for show to people how to cook your recipe using UNI and which package managers your recipe supports.
-
 | Command | Support |
 | --- | --- | --- |
 | `uni bake uni/template` | apt, dnf |
