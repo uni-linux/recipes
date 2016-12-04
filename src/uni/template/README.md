@@ -1,13 +1,25 @@
-# Template
+# Recipe Name
 
-This recipe is a template for you create your own recipes.
+Put here the description of your recipe.
 
-If you test it using UNI it will print 'hello cooks' message on terminal.
+E.g. This recipe is a template for you create your own recipes.
 
-For your recipe, just clone this repository and take this template as a base. Create a folder in ``/src/`` named with your github user name and create a separated folder inside it for each recipe created by you. Just take a look inside this template folder how the things works and make your own.
+If you test it using UNI it will print 'hello cooks' message on terminal. So, try to keep your description in pure text, because markdown isn't formatted when printed on terminal.
+
+For your recipe, just clone this repository and take this template as basis. Create a folder in ``/src/`` named with your github user name and create a separated folder inside it for each recipe created by you. Just take a look inside this template folder how the things works and make your own.
 
 # Usage
 
+This section is ignored on terminal, so, you can keep this markdown table for show to people how to cook your recipe using UNI and which package managers your recipe supports.
+
 | Command | Support |
 | --- | --- | --- |
-| `uni bake uni/template` | Ubuntu and based distributions, Fedora |
+| `uni bake uni/template` | apt, dnf |
+
+# Author Name
+
+Put your name and link it to your folder name in this repository. E.g:
+
+[Dalton Menezes](https://github.com/uni-linux/recipes/tree/master/src/daltonmenezes)
+
+
