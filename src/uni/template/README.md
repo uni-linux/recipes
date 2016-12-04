@@ -12,7 +12,7 @@ For your recipe, just clone this repository and take this template as basis. Cre
 | --- | --- | --- |
 | `uni bake uni/template` | apt, dnf |
 
-# Author Name
+# Author
 > Put your name and link it to your folder name in this repository. E.g:
 
 [Dalton Menezes](https://github.com/uni-linux/recipes/tree/master/src/daltonmenezes)
