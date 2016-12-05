@@ -36,6 +36,7 @@ So, if you want create your own recipes and publish it here you must:
 - Create your feature branch: git checkout -b my-new-recipe
 - Take [this template](https://github.com/uni-linux/recipes/tree/master/src/uni/template) as a base and keep a title, description and usage in your README.md file. The `uni bake` command will search in: `your-user-folder-name/your-recipe-folder-name`
 - Create a folder in `/src/` named with your github user name and create a separated folder inside it for each recipe created by you
+- Create a README.md inside your user-name folder and make it as your main recipes profile page, e.g: [See the example](https://github.com/uni-linux/recipes/tree/master/src/daltonmenezes)
 - Commit your changes: git commit -m 'Add user-name/recipe-name recipe'
 - Push to the branch: git push origin my-new-recipe
 - Send your pull request.
