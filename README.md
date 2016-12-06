@@ -25,6 +25,9 @@
 
 - [telegram-install](https://github.com/uni-linux/recipes/tree/master/src/daltonmenezes/telegram-install) by [Dalton Menezes](https://github.com/uni-linux/recipes/tree/master/src/daltonmenezes)<br/>
   Installs the latest version of Telegram from their official website.
+
+- [nebulosa-theme](https://github.com/uni-linux/recipes/tree/master/src/daltonmenezes/nebulosa-theme) by [Dalton Menezes](https://github.com/uni-linux/recipes/tree/master/src/daltonmenezes)
+
 <br/>
 
 # Contributing

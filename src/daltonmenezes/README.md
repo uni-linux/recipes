@@ -18,3 +18,5 @@ Any problem, please report me in one of the channels on the badges above.
 
 - [telegram-install](https://github.com/uni-linux/recipes/tree/master/src/daltonmenezes/telegram-install)<br/>
   Installs the latest version of Telegram from their official website.
+
+- [nebulosa-theme](https://github.com/uni-linux/recipes/tree/master/src/daltonmenezes/nebulosa-theme)<br/>
