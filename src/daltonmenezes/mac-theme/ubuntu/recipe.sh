@@ -6,7 +6,7 @@ function albertSpotlightConfig {
   touch $HOME/.config/albert/albert.conf | printf "[General]\nalwaysOnTop=true\ndisplayIcons=true\ndisplayScrollbar=false\ndisplayShadow=true\nhideOnClose=false\nhideOnFocusLoss=true\nhotkey=Shift+Space\nitemCount=5\nshowCentered=true\nshowTray=false\ntheme=Bright\nwarnAboutNonGraciousQuit=false" > $HOME/.config/albert/albert.conf
   mkdir -p $HOME/.config/autostart/
   touch $HOME/.config/autostart/albert.desktop
-  albertDesktopEntry="[Desktop Entry]\nType=Application\nExec=albert\nHidden=true\nNoDisplay=false\nX-GNOME-Autostart-enabled=true\nName[pt_BR]=albert\nName=albert"
+  albertDesktopEntry="[Desktop Entry]\nType=Application\nExec=albert\nHidden=false\nNoDisplay=false\nX-GNOME-Autostart-enabled=true\nName[pt_BR]=albert\nName=albert"
   printf "$albertDesktopEntry" > $HOME/.config/autostart/albert.desktop
 }
 
