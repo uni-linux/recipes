@@ -7,7 +7,7 @@ This recipe will install and configure:
 - MacOS X Sierra wallpaper
 - Plank dock
 - Gnosierra Plank theme
-- Albert spotlight `[Shift + Space]` for use it.
+- Albert spotlight `{Shift + Space}` for use it.
 
 <p align="center">
 <img src="bin/thumb.jpg" alt="Mac Theme Thumbnail" />
