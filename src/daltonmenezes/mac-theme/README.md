@@ -6,7 +6,7 @@ This recipe will install and configure:
 - MacBuntu theme
 - MacOS X Sierra wallpaper
 - Plank dock
-- Albert spotlight
+- Albert spotlight `[Shift + Space]` for use it.
 
 <p align="center">
 <img src="bin/thumb.jpg" alt="Mac Theme Thumbnail" />
