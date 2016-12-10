@@ -44,6 +44,7 @@ function wallpaperInstall {
   if [[ ! -f "/usr/share/backgrounds/mac-os-sierra-uni-theme.jpg" ]]; then
     wget 'https://github.com/uni-linux/recipes/raw/master/src/daltonmenezes/mac-theme/bin/mac-os-sierra.jpg' -O .mac-os-sierra-uni-theme.jpg
     sudo mv -fu .mac-os-sierra-uni-theme.jpg /usr/share/backgrounds/mac-os-sierra-uni-theme.jpg
+    wallpaperConfig
   else
       wallpaperConfig
   fi
