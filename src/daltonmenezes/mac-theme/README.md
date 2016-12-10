@@ -6,6 +6,7 @@ This recipe will install and configure:
 - MacBuntu theme
 - MacOS X Sierra wallpaper
 - Plank dock
+- Gnosierra Plank theme
 - Albert spotlight `[Shift + Space]` for use it.
 
 <p align="center">
