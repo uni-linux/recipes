@@ -104,7 +104,7 @@ function unityConfig {
   gsettings set org.compiz.unityshell:/org/compiz/profiles/unity/plugins/unityshell/ num-launchers "1"
   gsettings set org.compiz.unityshell:/org/compiz/profiles/unity/plugins/unityshell/ panel-opacity "0.82857142857142851433"
   gsettings set org.compiz.unityshell:/org/compiz/profiles/unity/plugins/unityshell/ panel-opacity-maximized-toggle "true"
-  #setsid unity
+  setsid unity
 }
 
 function ubuntuInstall {
