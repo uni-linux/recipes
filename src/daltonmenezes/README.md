@@ -20,3 +20,5 @@ Any problem, please report me in one of the channels on the badges above.
   Installs the latest version of Telegram from their official website.
 
 - [nebulosa-theme](https://github.com/uni-linux/recipes/tree/master/src/daltonmenezes/nebulosa-theme)<br/>
+
+- [mac-theme](https://github.com/uni-linux/recipes/tree/master/src/daltonmenezes/mac-theme)<br/>
