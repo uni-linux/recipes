@@ -26,6 +26,9 @@
 - [telegram-install](https://github.com/uni-linux/recipes/tree/master/src/daltonmenezes/telegram-install) by [Dalton Menezes](https://github.com/uni-linux/recipes/tree/master/src/daltonmenezes)<br/>
   Installs the latest version of Telegram from their official website.
 
+- [node-install](https://github.com/uni-linux/recipes/tree/master/src/daltonmenezes/node-install) by [Dalton Menezes](https://github.com/uni-linux/recipes/tree/master/src/daltonmenezes)<br/>
+  Installs the nodejs 6.x and npm.  
+
 - [nebulosa-theme](https://github.com/uni-linux/recipes/tree/master/src/daltonmenezes/nebulosa-theme) by [Dalton Menezes](https://github.com/uni-linux/recipes/tree/master/src/daltonmenezes)<br/>
 
 - [mac-theme](https://github.com/uni-linux/recipes/tree/master/src/daltonmenezes/mac-theme) by [Dalton Menezes](https://github.com/uni-linux/recipes/tree/master/src/daltonmenezes)
