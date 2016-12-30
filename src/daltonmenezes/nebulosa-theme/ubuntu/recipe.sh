@@ -62,6 +62,7 @@ function plankInstall {
       touch $HOME/.config/autostart/plank.desktop
       desktopEntry="[Desktop Entry]\nType=Application\nExec=plank\nHidden=false\nNoDisplay=false\nX-GNOME-Autostart-enabled=true\nName[pt_BR]=plank\nName=plank"
       printf "$desktopEntry" > $HOME/.config/autostart/plank.desktop
+      mkdir -p $HOME/.config/plank/dock1/launchers/
       touch $HOME/.config/plank/dock1/launchers/trash.dockitem | printf "[PlankDockItemPreferences]\nLauncher=docklet://trash" > $HOME/.config/plank/dock1/launchers/trash.dockitem
       plankConfig
       plank &>/dev/null &
