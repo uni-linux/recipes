@@ -1,5 +1,6 @@
 #!/bin/bash
 user_os=`cat /etc/os-release | grep -oP '(?<=^ID=)(.*)'`
+os_version=`cat /etc/os-release | grep -oP '(?<=^VERSION_ID=").*(?=\")'`
 
 function elGeneralConfig {
   gsettings set org.gnome.desktop.interface icon-theme 'ElGeneral'
@@ -93,6 +94,11 @@ function ubuntuBasedDistrosInstall {
   elGeneralInstall
   wallpaperInstall
 }
+
+if [[ "$user_os" == "ubuntu" && $os_version < "16.04" ]]; then
+    sudo add-apt-repository ppa:ricotz/docky -y
+    sudo apt-get update
+fi
 
 if [[ "$user_os" == "ubuntu" ]]; then
     ubuntuInstall
