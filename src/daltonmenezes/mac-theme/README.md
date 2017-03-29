@@ -16,7 +16,7 @@ This recipe will install and configure:
 # Usage
 
 | Command | Support |
-| --- | --- | --- | --- |
+| --- | --- |
 | `uni bake daltonmenezes/mac-theme` | Ubuntu 16.04 (Unity) |
 
 # Uninstallation
