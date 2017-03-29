@@ -16,7 +16,7 @@ Note: Plank only will be installed in Ubuntu 16.04 and only if you don't have it
 # Usage
 
 | Command | Support | No Support |
-| --- | --- | --- | --- |
+| --- | --- | --- | 
 | `uni bake daltonmenezes/nebulosa-theme` | Ubuntu 16.04 (Unity), Elementary OS Loki | Xfce |
 
 # Author
