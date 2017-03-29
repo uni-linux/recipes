@@ -7,7 +7,7 @@ It will install always the latest version of Telegram from their official websit
 # Usage
 
 | Command | Support |
-| --- | --- | --- |
+| --- | --- | 
 | `uni bake daltonmenezes/telegram-install` | Ubuntu and based distributions, Fedora |
 
 # Author
