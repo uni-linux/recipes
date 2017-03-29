@@ -5,7 +5,7 @@ It will install always the latest version of Atom Editor from their official web
 
 # Usage
 | Command | Support |
-| --- | --- | --- |
+| --- | --- |
 | `uni bake daltonmenezes/atom-install` | Ubuntu and based distributions, Fedora |
 
 # Author
