@@ -9,7 +9,7 @@ For your recipe, just clone this repository and take this template as basis. Cre
 
 # Usage
 | Command | Support |
-| --- | --- | --- |
+| --- | --- | 
 | `uni bake uni/template` | apt, dnf |
 
 # Author
