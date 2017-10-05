@@ -20,6 +20,8 @@
 <br/>
 
 # Available Recipes
+
+## Apps
 - [atom-install](https://github.com/uni-linux/recipes/tree/master/src/daltonmenezes/atom-install) by [Dalton Menezes](https://github.com/uni-linux/recipes/tree/master/src/daltonmenezes)<br/>
   Installs the latest version of Atom Editor from their official website and resolve dependency issues.
 
@@ -29,6 +31,7 @@
 - [node-install](https://github.com/uni-linux/recipes/tree/master/src/daltonmenezes/node-install) by [Dalton Menezes](https://github.com/uni-linux/recipes/tree/master/src/daltonmenezes)<br/>
   Installs the nodejs 6.x and npm.  
 
+## Themes
 - [nebulosa-theme](https://github.com/uni-linux/recipes/tree/master/src/daltonmenezes/nebulosa-theme) by [Dalton Menezes](https://github.com/uni-linux/recipes/tree/master/src/daltonmenezes)<br/>
 
 - [mac-theme](https://github.com/uni-linux/recipes/tree/master/src/daltonmenezes/mac-theme) by [Dalton Menezes](https://github.com/uni-linux/recipes/tree/master/src/daltonmenezes)
