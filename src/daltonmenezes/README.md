@@ -13,6 +13,8 @@ Any problem, please report me in one of the channels on the badges above.
 <br/>
 
 # My Recipes
+
+## Apps
 - [atom-install](https://github.com/uni-linux/recipes/tree/master/src/daltonmenezes/atom-install)<br/>
   Installs the latest version of Atom Editor from their official website and resolve dependency issues.
 
@@ -22,6 +24,7 @@ Any problem, please report me in one of the channels on the badges above.
 - [node-install](https://github.com/uni-linux/recipes/tree/master/src/daltonmenezes/node-install)<br/>
   Installs the nodejs 6.x and npm.
 
+## Themes
 - [stylishbuntu-theme](https://github.com/uni-linux/recipes/tree/master/src/daltonmenezes/stylishbuntu-theme)<br/>
 
 - [nebulosa-theme](https://github.com/uni-linux/recipes/tree/master/src/daltonmenezes/nebulosa-theme)<br/>
