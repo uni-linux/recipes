@@ -5,6 +5,10 @@ This recipe will install and configure:
 - El General icons
 - Flatabulous theme
 
+<p align="center">
+<img src="bin/thumb.jpg" alt="Stylishbuntu Theme Thumbnail" />
+</p>
+
 # Usage
 
 | Command | Support |
