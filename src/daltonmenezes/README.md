@@ -22,6 +22,8 @@ Any problem, please report me in one of the channels on the badges above.
 - [node-install](https://github.com/uni-linux/recipes/tree/master/src/daltonmenezes/node-install)<br/>
   Installs the nodejs 6.x and npm.
 
+- [stylishbuntu-theme](https://github.com/uni-linux/recipes/tree/master/src/daltonmenezes/stylishbuntu-theme)<br/>
+
 - [nebulosa-theme](https://github.com/uni-linux/recipes/tree/master/src/daltonmenezes/nebulosa-theme)<br/>
 
 - [mac-theme](https://github.com/uni-linux/recipes/tree/master/src/daltonmenezes/mac-theme)<br/>
