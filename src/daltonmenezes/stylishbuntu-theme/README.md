@@ -8,7 +8,7 @@ This recipe will install and configure:
 # Usage
 
 | Command | Support |
-| --- | --- | --- | 
+| --- | --- |
 | `uni bake daltonmenezes/stylishbuntu-theme` | Ubuntu 16.04 (Unity) |
 
 # Author
