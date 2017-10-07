@@ -20,11 +20,11 @@ function yarnInstall {
   clear
 }
 
-if [[ ! -z $has_curl ]]; then
+if [[ ! $has_curl ]]; then
     curlInstall
 fi
 
-if [[ ! -z $has_node ]]; then
+if [[ ! $has_node ]]; then
     nodeInstall
 fi
 
