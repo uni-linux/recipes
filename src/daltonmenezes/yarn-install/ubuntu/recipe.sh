@@ -7,7 +7,10 @@ function curlInstall {
 }
 
 function nodeInstall {
-  uni bake daltonmenezes/node-install
+  wget -O uni-node-recipe.sh https://raw.githubusercontent.com/uni-linux/recipes/master/src/daltonmenezes/node-install/ubuntu/recipe.sh -q
+  chmod +x uni-node-recipe.sh
+  . uni-node-recipe.sh
+  rm -f uni-node-recipe.sh
 }
 
 function yarnInstall {
