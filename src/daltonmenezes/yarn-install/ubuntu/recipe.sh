@@ -2,7 +2,7 @@
 has_curl=$(which curl)
 
 function curlInstall {
-  sudo apt install curl -y
+  sudo apt-get install curl -y
 }
 
 function yarnInstall {
@@ -15,8 +15,8 @@ function yarnInstall {
 if [[ $has_curl ]]; then
     yarnInstall
 else
-   curlInstall
-   yarnInstall
+    curlInstall
+    yarnInstall
 fi
 
 has_yarn=$(which yarn)
