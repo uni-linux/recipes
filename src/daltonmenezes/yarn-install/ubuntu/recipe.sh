@@ -1,8 +1,13 @@
 #!/bin/bash
 has_curl=$(which curl)
+has_node=$(which node)
 
 function curlInstall {
   sudo apt-get install curl -y
+}
+
+function nodeInstall {
+  uni bake daltonmenezes/node-install
 }
 
 function yarnInstall {
@@ -12,12 +17,15 @@ function yarnInstall {
   clear
 }
 
-if [[ $has_curl ]]; then
-    yarnInstall
-else
+if [[ ! -z $has_curl ]]; then
     curlInstall
-    yarnInstall
 fi
+
+if [[ ! -z $has_node ]]; then
+    nodeInstall
+fi
+
+yarnInstall
 
 has_yarn=$(which yarn)
 
