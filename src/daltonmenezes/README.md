@@ -24,6 +24,9 @@ Any problem, please report me in one of the channels on the badges above.
 - [node-install](https://github.com/uni-linux/recipes/tree/master/src/daltonmenezes/node-install)<br/>
   Installs the nodejs 6.x and npm.
 
+- [yarn-install](https://github.com/uni-linux/recipes/tree/master/src/daltonmenezes/yarn-install)<br/>
+  Installs the latest version of Yarn.
+
 ## Themes
 - [stylishbuntu-theme](https://github.com/uni-linux/recipes/tree/master/src/daltonmenezes/stylishbuntu-theme)<br/>
 
