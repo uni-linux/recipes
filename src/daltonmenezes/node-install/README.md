@@ -1,5 +1,5 @@
 # Node Install
-This recipe is for Nodejs 6.x and npm installation.
+This recipe is for Nodejs 12.x and npm installation.
 
 # Usage
 
