@@ -5,8 +5,12 @@ function curlInstall {
   sudo apt-get install curl -y
 }
 
+function getLatestLTSVersion {
+  lts_version=$(curl -sL https://nodejs.org/en/ | grep -Po '(data-version="v(\d+))' | grep -Po '(\d+)' | head -1)
+}
+
 function nodeInstall {
-  curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
+  curl -sL "https://deb.nodesource.com/setup_${lts_version:=12}.x" | sudo -E bash -
   sudo apt-get install -y nodejs
   clear
 }
@@ -15,6 +19,7 @@ if [[ ! $has_curl ]]; then
     curlInstall
 fi
 
+getLatestLTSVersion
 nodeInstall
 
 has_node=$(which node)

@@ -1,5 +1,5 @@
 # Node Install
-This recipe is for Nodejs 12.x and npm installation.
+This recipe is for nodejs **latest LTS available version** and npm installation.
 
 # Usage
 

@@ -31,7 +31,7 @@
   Installs the latest version of Telegram from their official website.
 
 - [node-install](https://github.com/uni-linux/recipes/tree/master/src/daltonmenezes/node-install) by [Dalton Menezes](https://github.com/uni-linux/recipes/tree/master/src/daltonmenezes)<br/>
-  Installs the nodejs **12.x** and npm.
+  Installs the nodejs **latest LTS available version** and npm.
 
 - [yarn-install](https://github.com/uni-linux/recipes/tree/master/src/daltonmenezes/yarn-install) by [Dalton Menezes](https://github.com/uni-linux/recipes/tree/master/src/daltonmenezes)<br/>
   Installs the latest version of Yarn.
