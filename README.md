@@ -7,10 +7,24 @@
 <h1 align="center">Recipes for UNI :cake:</h1>
 
 <p align="center">
-  <a href="https://www.patreon.com/daltonmenezes"><img src="https://img.shields.io/badge/become%20a-patron%20or%20sponsor-orange.svg" alt="become a patron or sponsor" /></a>    
-    <a href="https://paypal.me/daltonmenezes"><img src="https://img.shields.io/badge/donate-green.svg" alt="donate" /></a>
-  <a href="https://github.com/uni-linux/uni"><img src="https://img.shields.io/badge/get-uni-green.svg" alt="get uni"/></a>
-  <a href="https://github.com/uni-linux/recipes/blob/master/LICENSE"><img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="License - MIT"/></a>
+  <a href="https://issuehunt.io/r/uni-linux/recipes">
+    <img src="https://img.shields.io/badge/fund%20issues%20on-issuehunt-green" alt="fund issues on issuehunt" />
+  </a>  
+  
+  <a href="https://www.patreon.com/daltonmenezes">
+    <img src="https://img.shields.io/badge/become%20a-patron%20or%20sponsor-orange.svg" alt="become a patron or sponsor" />   </a>    
+  
+  <a href="https://paypal.me/daltonmenezes">
+    <img src="https://img.shields.io/badge/donate%20-paypal-green.svg" alt="donate on paypal" />
+  </a>
+  
+  <a href="https://github.com/uni-linux/uni">
+    <img src="https://img.shields.io/badge/get-uni-green.svg" alt="get uni"/>
+  </a>
+  
+  <a href="https://github.com/uni-linux/recipes/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="License - MIT"/>
+  </a>
 </p>
 <br/>
 
