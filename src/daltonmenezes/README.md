@@ -33,3 +33,7 @@ Any problem, please report me in one of the channels on the badges above.
 - [nebulosa-theme](https://github.com/uni-linux/recipes/tree/master/src/daltonmenezes/nebulosa-theme)<br/>
 
 - [mac-theme](https://github.com/uni-linux/recipes/tree/master/src/daltonmenezes/mac-theme)<br/>
+
+# Fixes
+- [watchers-fix](https://github.com/uni-linux/recipes/tree/master/src/daltonmenezes/watchers-fix)<br/>
+  Fixes the `ENOSPC: SYSTEM LIMIT FOR NUMBER OF FILE WATCHERS REACHED` issue.

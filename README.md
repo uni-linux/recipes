@@ -50,6 +50,10 @@
 - [yarn-install](https://github.com/uni-linux/recipes/tree/master/src/daltonmenezes/yarn-install) by [Dalton Menezes](https://github.com/uni-linux/recipes/tree/master/src/daltonmenezes)<br/>
   Installs the latest version of Yarn.
 
+## Fixes
+- [watchers-fix](https://github.com/uni-linux/recipes/tree/master/src/daltonmenezes/watchers-fix) by [Dalton Menezes](https://github.com/uni-linux/recipes/tree/master/src/daltonmenezes)<br/>
+  Fixes the `ENOSPC: SYSTEM LIMIT FOR NUMBER OF FILE WATCHERS REACHED` issue. 
+
 ## Themes
 - [stylishbuntu-theme](https://github.com/uni-linux/recipes/tree/master/src/daltonmenezes/stylishbuntu-theme) by [Dalton Menezes](https://github.com/uni-linux/recipes/tree/master/src/daltonmenezes)<br/>
 
