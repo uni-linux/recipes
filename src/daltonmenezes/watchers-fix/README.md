@@ -6,7 +6,7 @@ This recipe will fix the `ERROR: ENOSPC: SYSTEM LIMIT FOR NUMBER OF FILE WATCHER
 
 | Command | Support |
 | --- | --- |
-| `uni bake watchers-fix` | Ubuntu and based distributions |
+| `uni bake watchers-fix` | Ubuntu and based distributions, Fedora |
 
 # Author
 
