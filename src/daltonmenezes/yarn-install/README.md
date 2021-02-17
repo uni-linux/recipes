@@ -5,7 +5,7 @@ This recipe installs the latest version of Yarn.
 
 | Command | Support |
 | --- | --- | 
-| `uni bake daltonmenezes/yarn-install` | Ubuntu 16.04 and based distributions |
+| `uni bake yarn-install` | Ubuntu 16.04 and based distributions |
 
 # Author
 
