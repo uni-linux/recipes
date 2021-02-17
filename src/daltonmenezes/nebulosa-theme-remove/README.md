@@ -13,7 +13,7 @@ Note: Plank only will be removed in Ubuntu 16.04 and only if you don't have it. 
 
 | Command | Support |
 | --- | --- |
-| `uni bake daltonmenezes/nebulosa-theme-remove` | Ubuntu 16.04 (Unity), Elementary OS Loki |
+| `uni bake nebulosa-theme-remove` | Ubuntu 16.04 (Unity), Elementary OS Loki |
 
 # Author
 
