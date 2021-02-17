@@ -13,7 +13,7 @@ This recipe will remove:
 
 | Command | Support |
 | --- | --- |
-| `uni bake daltonmenezes/mac-theme-remove` | Ubuntu 16.04 (Unity) |
+| `uni bake mac-theme-remove` | Ubuntu 16.04 (Unity) |
 
 # Author
 
