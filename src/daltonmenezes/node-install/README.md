@@ -5,7 +5,7 @@ This recipe is for nodejs **latest LTS available version** and npm installation.
 
 | Command | Support |
 | --- | --- | 
-| `uni bake daltonmenezes/node-install` | Ubuntu and based distributions |
+| `uni bake node-install` | Ubuntu and based distributions |
 
 # Author
 
