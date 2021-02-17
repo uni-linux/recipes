@@ -13,13 +13,13 @@ This recipe will install and configure:
 
 | Command | Support |
 | --- | --- |
-| `uni bake daltonmenezes/stylishbuntu-theme` | Ubuntu 16.04 (Unity) |
+| `uni bake stylishbuntu-theme` | Ubuntu 16.04 (Unity) |
 
 # Uninstallation
 
 | Command |
 | --- |
-| `uni bake daltonmenezes/stylishbuntu-theme-remove` |
+| `uni bake stylishbuntu-theme-remove` |
 
 # Author
 
