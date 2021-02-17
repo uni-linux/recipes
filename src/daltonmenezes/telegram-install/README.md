@@ -8,13 +8,13 @@ It will install always the latest version of Telegram from their official websit
 
 | Command | Support |
 | --- | --- |
-| `uni bake daltonmenezes/telegram-install` | Ubuntu and based distributions, Fedora |
+| `uni bake telegram-install` | Ubuntu and based distributions, Fedora |
 
 # Uninstallation
 
 | Command |
 | --- |
-| `uni bake daltonmenezes/telegram-remove` |
+| `uni bake telegram-remove` |
 
 # Author
 
