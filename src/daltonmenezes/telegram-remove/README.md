@@ -8,7 +8,7 @@ This recipe will remove:
 
 | Command | Support |
 | --- | --- |
-| `uni bake daltonmenezes/telegram-remove` | Ubuntu and based distributions |
+| `uni bake telegram-remove` | Ubuntu and based distributions |
 
 # Author
 
