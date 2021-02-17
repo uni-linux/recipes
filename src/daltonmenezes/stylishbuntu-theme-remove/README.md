@@ -9,7 +9,7 @@ This recipe will remove:
 
 | Command | Support |
 | --- | --- |
-| `uni bake daltonmenezes/stylishbuntu-theme-remove` | Ubuntu 16.04 (Unity) |
+| `uni bake stylishbuntu-theme-remove` | Ubuntu 16.04 (Unity) |
 
 # Author
 
